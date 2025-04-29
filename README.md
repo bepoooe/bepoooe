@@ -20,16 +20,15 @@
 
 ---
 
-<img align="right" height="300px" alt="Cyberpunk Coding GIF" src="https://i.imgur.com/NCmTQHF.gif" />
+<img align="right" height="300px" alt="Coding GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech in Computer Science at **B.P. Poddar Institute of Management and Technology** (2023-2027)
-- 💻 Creative front-end developer with a passion for building beautiful interfaces
-- 🚀 Hackathon enthusiast transforming ideas into reality under pressure
-- 🌟 Crafting digital experiences that blend innovation, design, and user-centric thinking
-- 🔍 Exploring the intersection of technology, creativity, and problem-solving
-- 🛠️ Constantly expanding my toolkit with cutting-edge technologies
+- 🎓 B.Tech in Computer Science (2023-2027)
+- 💻 Front-end developer focused on creative interfaces
+- 🚀 Hackathon enthusiast and project builder
+- 🛠️ Tech explorer passionate about innovative solutions
+- 🌐 Constantly learning and evolving my skill set
 
 ---
 
@@ -57,7 +56,7 @@
 ## 📈 Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bepoooe&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/api?username=bepoooe&theme=radical" alt="GitHub Streak" />
 </p>
 
 <div align="center">
@@ -118,17 +117,13 @@
 
 ## 🎨 Beyond The Code
 
-<details>
-  <summary>Explore My World</summary>
-  <br>
-  <ul>
-    <li>🎵 <b>Fine Arts:</b> 4 years of formal art education, exploring visual expression</li>
-    <li>🧮 <b>Abacus:</b> Regional competition winner with advanced mental calculation skills</li>
-    <li>📸 <b>Photography:</b> Skilled in capturing moments and Adobe Lightroom editing</li>
-    <li>🥋 <b>Martial Arts:</b> Green Belt in Karate, practicing discipline and focus</li>
-    <li>🌿 <b>Nature Lover:</b> Finding inspiration and balance in the great outdoors</li>
-  </ul>
-</details>
+<ul>
+  <li>🎵 <b>Fine Arts:</b> 4 years of formal art education</li>
+  <li>🧮 <b>Abacus:</b> Regional competition winner</li>
+  <li>📸 <b>Photography:</b> Skilled in capturing moments and editing</li>
+  <li>🥋 <b>Martial Arts:</b> Green Belt in Karate</li>
+  <li>🌿 <b>Nature Lover:</b> Finding inspiration in the outdoors</li>
+</ul>
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
