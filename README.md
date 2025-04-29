@@ -32,14 +32,27 @@
 ## 📊 GitHub Stats & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bepoooe&show_icons=true&theme=radical" alt="Adrish's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bepoooe&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bepoooe&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bepoooe&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Adrish's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bepoooe&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bepoooe&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bepoooe&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 🏆 Achievements & Projects
+## 🏆 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/bepoooe/animated-book-slider">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bepoooe&repo=animated-book-slider&theme=radical" />
+  </a>
+  <a href="https://github.com/bepoooe/lokseva">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bepoooe&repo=lokseva&theme=radical" />
+  </a>
+</div>
 
 <details>
   <summary><b>Animated Book Slider</b> (Front-end, React, Three.js)</summary>
@@ -50,14 +63,36 @@
   </ul>
 </details>
 
+<details>
+  <summary><b>LokSeva – Digital Municipal Services Platform</b> (Full-stack, React, Supabase)</summary>
+  <ul>
+    <li>Web platform for municipal services, grievances, and tracking</li>
+    <li>CI/CD with Vercel, secure authentication, SQL database design</li>
+    <li><a href="https://github.com/bepoooe/lokseva">View Project</a></li>
+  </ul>
+</details>
+
 ---
 
-## 📫 Connect with Me
+## 🌐 Social Links & Activity
 
-<p align="left">
-  <a href="mailto:adrishbasak003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/adrish-basak-6a730275/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/bepoooe"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<div align="center">
+  <a href="https://www.instagram.com/bepoisdying/?hl=en">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/adrish-basak-6a7030275/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:adrishbasak003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/bepoooe">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bepoooe&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
