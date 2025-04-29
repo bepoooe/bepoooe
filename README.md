@@ -1,7 +1,10 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Adrish Basak</h1>
+<!-- Profile Header with Retro Cyberpunk Aesthetic -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=180&section=header&text=Adrish%20Basak&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Code%20•%20Create%20•%20Innovate&descAlignY=51&descAlign=62" alt="header" />
+</div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Front-end+Developer;Hackathon+Enthusiast;Tech+Explorer;Digital+Craftsman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F723A4&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Front-end+Developer;Hackathon+Enthusiast;Digital+Craftsman" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -20,7 +23,7 @@
 
 ---
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="300px" alt="Cyberpunk Coding GIF" src="https://i.imgur.com/rMGD5Qm.gif" />
 
 ## 🧑‍💻 About Me
 
@@ -34,33 +37,31 @@
 ---
 
 ## 🚀 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,threejs,tailwind,git,figma,vercel" />
+</div>
 
 <details>
   <summary>More Skills</summary>
   <br>
-  <p align="left">
+  <p align="center">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
     <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/>
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   </p>
 </details>
 
 ---
 
-## 📈 Stats
+## 📈 Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bepoooe&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak" />
+</p>
 
 <div align="center">
   <table>
@@ -84,7 +85,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bepoooe&theme=radical&hide_border=true&custom_title=Contribution%20Graph" alt="Adrish's GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bepoooe&custom_title=Adrish's%20Contribution%20Graph&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true" alt="Adrish's GitHub Activity Graph"/>
 </div>
 
 ---
@@ -92,11 +93,9 @@
 ## 📊 GitHub Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bepoooe&show_icons=true&theme=radical&include_all_commits=true&count_private=true&card_width=450" alt="Adrish's GitHub stats" />
-</div>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=bepoooe&bg_color=0D1117&title_color=e05397&icon_color=e05397&text_color=FFFFFF&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&card_width=450" alt="Adrish's GitHub stats" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bepoooe&layout=compact&theme=radical&hide_border=true&card_width=450" alt="Top Languages" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bepoooe&layout=compact&bg_color=0D1117&title_color=e05397&text_color=FFFFFF&hide_border=true&card_width=450" alt="Top Languages" />
 </div>
 
 ---
@@ -134,8 +133,12 @@
   </ul>
 </details>
 
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" />
+</div>
+
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=100&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=120&section=footer&animation=twinkling&fontColor=FFFFFF"/>
 </div>
