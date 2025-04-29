@@ -7,7 +7,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 B.Tech in Computer Science @ B.P. Poddar Institute of Management and Technology (2023-2027)
+- 🎓 B.Tech in Computer Science at B.P. Poddar Institute of Management and Technology (2023-2027)
 - 💻 Front-end developer | Hackathon participant | Project creator
 - 🛠️ Skilled in Java, Python, JavaScript, React, Node.js, Three.js, and more
 - 🌐 Web development, software engineering, and deployment enthusiast
@@ -33,7 +33,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bepoooe&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Adrish's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bepoooe&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=bepoooe&theme=radical&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bepoooe&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -43,16 +43,7 @@
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/bepoooe/animated-book-slider">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bepoooe&repo=animated-book-slider&theme=radical" />
-  </a>
-  <a href="https://github.com/bepoooe/lokseva">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bepoooe&repo=lokseva&theme=radical" />
-  </a>
-</div>
+## 🏆 Projects
 
 <details>
   <summary><b>Animated Book Slider</b> (Front-end, React, Three.js)</summary>
