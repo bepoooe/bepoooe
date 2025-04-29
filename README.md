@@ -31,37 +31,18 @@
 
 ## 📊 GitHub Stats & Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bepoooe&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Adrish's GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=bepoooe&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bepoooe&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bepoooe&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Adrish's GitHub stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bepoooe&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bepoooe&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bepoooe&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
-
----
-
-## 🏆 Projects
-
-<details>
-  <summary><b>Animated Book Slider</b> (Front-end, React, Three.js)</summary>
-  <ul>
-    <li>3D animated magazine slider with interactive UI (Tailwind CSS, React, Three.js)</li>
-    <li>Image enhancement with Canva, deployed on Vercel</li>
-    <li><a href="https://github.com/bepoooe/animated-book-slider">View Project</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>LokSeva – Digital Municipal Services Platform</b> (Full-stack, React, Supabase)</summary>
-  <ul>
-    <li>Web platform for municipal services, grievances, and tracking</li>
-    <li>CI/CD with Vercel, secure authentication, SQL database design</li>
-    <li><a href="https://github.com/bepoooe/lokseva">View Project</a></li>
-  </ul>
-</details>
 
 ---
 
