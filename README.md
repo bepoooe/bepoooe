@@ -20,15 +20,25 @@
 
 ---
 
-<img align="right" height="300px" alt="Coding GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
-
-## 🧑‍💻 About Me
-
-- 🎓 B.Tech in Computer Science (2023-2027)
-- 💻 Front-end developer focused on creative interfaces
-- 🚀 Hackathon enthusiast and project builder
-- 🛠️ Tech explorer passionate about innovative solutions
-- 🌐 Constantly learning and evolving my skill set
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img align="center" alt="Coding GIF" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" width="100%"/>
+      </td>
+      <td width="50%">
+        <h3>🧑‍💻 About Me</h3>
+        <ul>
+          <li>🎓 B.Tech in Computer Science (2023-2027)</li>
+          <li>💻 Front-end developer focused on creative interfaces</li>
+          <li>🚀 Hackathon enthusiast and project builder</li>
+          <li>🛠️ Tech explorer passionate about innovative solutions</li>
+          <li>🌐 Constantly learning and evolving my skill set</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -56,7 +66,7 @@
 ## 📈 Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/api?username=bepoooe&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bepoooe&theme=radical" alt="GitHub Streak" />
 </p>
 
 <div align="center">
@@ -122,7 +132,6 @@
   <li>🧮 <b>Abacus:</b> Regional competition winner</li>
   <li>📸 <b>Photography:</b> Skilled in capturing moments and editing</li>
   <li>🥋 <b>Martial Arts:</b> Green Belt in Karate</li>
-  <li>🌿 <b>Nature Lover:</b> Finding inspiration in the outdoors</li>
 </ul>
 
 <div align="center">
