@@ -1,8 +1,5 @@
-<!-- Profile Header with Retro Cyberpunk Aesthetic -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=180&section=header&text=Adrish%20Basak&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Code%20•%20Create%20•%20Innovate&descAlignY=51&descAlign=62" alt="header" />
-</div>
-
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Adrish Basak</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F723A4&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Front-end+Developer;Hackathon+Enthusiast;Digital+Craftsman" alt="Typing SVG" />
 </p>
@@ -23,7 +20,7 @@
 
 ---
 
-<img align="right" height="300px" alt="Cyberpunk Coding GIF" src="https://i.imgur.com/rMGD5Qm.gif" />
+<img align="right" height="300px" alt="Cyberpunk Coding GIF" src="https://i.imgur.com/NCmTQHF.gif" />
 
 ## 🧑‍💻 About Me
 
@@ -60,7 +57,7 @@
 ## 📈 Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bepoooe&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bepoooe&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <div align="center">
@@ -85,7 +82,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bepoooe&custom_title=Adrish's%20Contribution%20Graph&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true" alt="Adrish's GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bepoooe&theme=radical&hide_border=true&custom_title=Adrish's%20Contribution%20Graph" alt="Adrish's GitHub Activity Graph"/>
 </div>
 
 ---
@@ -93,9 +90,9 @@
 ## 📊 GitHub Performance
 
 <div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=bepoooe&bg_color=0D1117&title_color=e05397&icon_color=e05397&text_color=FFFFFF&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&card_width=450" alt="Adrish's GitHub stats" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=bepoooe&show_icons=true&theme=radical&include_all_commits=true&count_private=true&card_width=450" alt="Adrish's GitHub stats" />
 
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bepoooe&layout=compact&bg_color=0D1117&title_color=e05397&text_color=FFFFFF&hide_border=true&card_width=450" alt="Top Languages" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bepoooe&layout=compact&theme=radical&hide_border=true&card_width=450" alt="Top Languages" />
 </div>
 
 ---
@@ -134,11 +131,11 @@
 </details>
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=120&section=footer&animation=twinkling&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=120&section=footer&animation=twinkling&fontColor=FFFFFF"/>
 </div>
