@@ -33,7 +33,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bepoooe&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Adrish's GitHub stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bepoooe&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=bepoooe&theme=radical&border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
