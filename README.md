@@ -45,29 +45,42 @@
 ## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,threejs,tailwind,git,figma,vercel" />
+  <table border="0">
+    <tr>
+      <td>
+        <h4 align="center">Languages & Frameworks</h4>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,threejs,tailwind" />
+        </p>
+      </td>
+      <td>
+        <h4 align="center">Tools & Technologies</h4>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=git,figma,vercel,vscode,github,html,css,firebase" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <details>
+          <summary><h4 align="center">More Skills</h4></summary>
+          <p align="center">
+            <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+            <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+          </p>
+        </details>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<details>
-  <summary>More Skills</summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  </p>
-</details>
 
 ---
 
 ## 📈 Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bepoooe&theme=radical" alt="GitHub Streak" />
-</p>
 
 <div align="center">
   <table>
@@ -99,9 +112,16 @@
 ## 📊 GitHub Performance
 
 <div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=bepoooe&show_icons=true&theme=radical&include_all_commits=true&count_private=true&card_width=450" alt="Adrish's GitHub stats" />
-
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bepoooe&layout=compact&theme=radical&hide_border=true&card_width=450" alt="Top Languages" />
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>
+        <img width="450px" src="https://github-readme-stats.vercel.app/api?username=bepoooe&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&hide_border=true" alt="Adrish's GitHub stats" />
+      </td>
+      <td>
+        <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bepoooe&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
