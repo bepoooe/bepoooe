@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Front-end+Developer;Hackathon+Enthusiast;Tech+Explorer" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <img src="https://img.shields.io/github/followers/bepoooe?style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/bepoooe?style=social" alt="GitHub User's stars" />
+  <img src="https://komarev.com/ghpvc/?username=bepoooe&style=flat-square&color=blue" alt="Profile views" />
+</div>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -29,24 +35,48 @@
 
 ---
 
-## 📊 GitHub Stats & Insights
+## 🔥 Cool Insights
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bepoooe&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Adrish's GitHub stats" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=bepoooe&theme=radical&border=true" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bepoooe&theme=radical" alt="GitHub Profile Summary"/>
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bepoooe&theme=radical" alt="Productive Time"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bepoooe&theme=radical" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bepoooe&theme=radical" alt="Top Languages by Repo"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bepoooe&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bepoooe&theme=radical&hide_border=true&custom_title=Contribution%20Graph" alt="Adrish's GitHub Activity Graph"/>
 </div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bepoooe&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
 
 ---
 
-## 🌐 Social Links & Activity
+## 📊 GitHub Performance
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bepoooe&show_icons=true&theme=radical&include_all_commits=true&count_private=true&card_width=450" alt="Adrish's GitHub stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bepoooe&layout=compact&theme=radical&hide_border=true&card_width=450" alt="Top Languages" />
+</div>
+
+---
+
+## 🌐 Social Links
 
 <div align="center">
   <a href="https://www.instagram.com/bepoisdying/?hl=en">
@@ -63,10 +93,6 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bepoooe&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
 ---
 
 ## 🎨 Extras
@@ -78,6 +104,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bepoooe&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
