@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Adrish Basak</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F723A4&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Front-end+Developer;Hackathon+Enthusiast;Digital+Craftsman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F723A4&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Full-stack+Developer;ML+%26+Backend+Enthusiast;Digital+Craftsman" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -30,8 +30,8 @@
         <h3>🧑‍💻 About Me</h3>
         <ul>
           <li>🎓 B.Tech in Computer Science (2023-2027)</li>
-          <li>💻 Front-end developer focused on creative interfaces</li>
-          <li>🚀 Hackathon enthusiast and project builder</li>
+          <li>💻 Full-stack developer focused on creative solutions</li>
+          <li>🚀 ML & Backend enthusiast and project builder</li>
           <li>🛠️ Tech explorer passionate about innovative solutions</li>
           <li>🌐 Constantly learning and evolving my skill set</li>
         </ul>
