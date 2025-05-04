@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Adrish Basak</h1>
+<h1 align="center">Hi, I'm Adrish Basak</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F723A4&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Front-end+Developer;Hackathon+Enthusiast;Digital+Craftsman" alt="Typing SVG" />
 </p>
@@ -86,25 +86,25 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bepoooe&theme=radical" alt="GitHub Profile Summary"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=bepoooe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true" alt="GitHub Stats"/>
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bepoooe&theme=radical" alt="Productive Time"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=bepoooe&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bepoooe&theme=radical" alt="GitHub Stats"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bepoooe&theme=tokyonight" alt="Top Languages by Repo"/>
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bepoooe&theme=radical" alt="Top Languages by Repo"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bepoooe&theme=tokyonight" alt="Productive Time"/>
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bepoooe&theme=radical&hide_border=true&custom_title=Adrish's%20Contribution%20Graph" alt="Adrish's GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bepoooe&theme=tokyo-night&hide_border=true&custom_title=Adrish's%20Contribution%20Graph" alt="Adrish's GitHub Activity Graph"/>
 </div>
 
 ---
@@ -115,10 +115,10 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td>
-        <img width="450px" src="https://github-readme-stats.vercel.app/api?username=bepoooe&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&hide_border=true" alt="Adrish's GitHub stats" />
+        <img width="450px" src="https://github-readme-stats.vercel.app/api?username=bepoooe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true" alt="Adrish's GitHub stats" />
       </td>
       <td>
-        <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bepoooe&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" />
+        <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bepoooe&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
       </td>
     </tr>
   </table>
