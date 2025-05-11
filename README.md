@@ -123,7 +123,7 @@
 <ul>
   <li>🎵 <b>Fine Arts:</b> 4 years of formal art education</li>
   <li>🧮 <b>Abacus:</b> Regional competition winner</li>
-  <li>📸 <b>Photography:</b> Skilled in capturing moments and editing</li>
+  <li>📸 <b>Photography:</b> Skilled in capturing moments and Adobe Lightroom</li>
   <li>🥋 <b>Martial Arts:</b> Green Belt in Karate</li>
 </ul>
 </div>
