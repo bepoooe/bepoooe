@@ -106,42 +106,57 @@
   <!-- Styled Code Metrics - Modern Themed Boxes -->
   <h3 align="center">🚀 Code Journey</h3>
   
-  <div align="center">
-    <table border="0" cellspacing="0" cellpadding="10">
-      <tr>
-        <td>
-          <img src="https://img.shields.io/badge/Repositories-25+-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27"/>
-        </td>
-        <td>
-          <img src="https://img.shields.io/badge/Contributions-300+-38bdae?style=for-the-badge&logo=gitpod&logoColor=white&labelColor=1a1b27"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <img src="https://img.shields.io/badge/Projects-15+-628fda?style=for-the-badge&logo=blueprint&logoColor=white&labelColor=1a1b27"/>
-        </td>
-        <td>
-          <img src="https://img.shields.io/badge/Technologies-10+-F723A4?style=for-the-badge&logo=codepen&logoColor=white&labelColor=1a1b27"/>
-        </td>
-      </tr>
-    </table>
-  </div>
-  
-  <!-- Additional Themed Metrics -->
-  <div align="center">
-    <table border="0" cellspacing="0" cellpadding="0">
-      <tr>
-        <td width="33%" align="center">
-          <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=1a1b27&color=38bdae&label=Code%20Time&query=text&url=https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Code%20Time&query=text&url=https://wakapi.dev/api/compat/shields/v1/bepoooe/interval:any/project:all" alt="Code Time"/>
-        </td>
-        <td width="33%" align="center">
-          <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=1a1b27&color=628fda&label=Weekly%20Commits&query=text&url=https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Weekly%20Commits&query=text&url=https://wakapi.dev/api/compat/shields/v1/bepoooe/interval:7_days/project:all" alt="Weekly Commits"/>
-        </td>
-        <td width="33%" align="center">
-          <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=1a1b27&color=F723A4&label=Most%20Used%20Lang&query=text&url=https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Most%20Used%20Lang&query=text&url=https://wakapi.dev/api/compat/shields/v1/bepoooe/interval:any/project:all" alt="Most Used Language"/>
-        </td>
-      </tr>
-    </table>
+ <table border="0" cellspacing="0" cellpadding="0" style="width:800px; margin:20px auto; border-collapse:separate; border-spacing:10px;">
+  <tr>
+    <td style="width:50%; background-color:#0d1117; border-radius:6px; padding:15px; border:1px solid #30363d;">
+      <div style="display:flex; align-items:center;">
+        <img width="20" height="20" src="https://cdn.simpleicons.org/github/white" alt="Repositories" style="margin-right:10px;"/>
+        <span style="font-weight:bold; color:white;">REPOSITORIES</span>
+        <span style="margin-left:auto; background-color:#1a1b27; color:#38bdae; padding:5px 10px; border-radius:5px; font-weight:bold;">25+</span>
+      </div>
+    </td>
+    <td style="width:50%; background-color:#0d1117; border-radius:6px; padding:15px; border:1px solid #30363d;">
+      <div style="display:flex; align-items:center;">
+        <img width="20" height="20" src="https://cdn.simpleicons.org/git/white" alt="Contributions" style="margin-right:10px;"/>
+        <span style="font-weight:bold; color:white;">CONTRIBUTIONS</span>
+        <span style="margin-left:auto; background-color:#1a1b27; color:#38bdae; padding:5px 10px; border-radius:5px; font-weight:bold;">300+</span>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:50%; background-color:#0d1117; border-radius:6px; padding:15px; border:1px solid #30363d;">
+      <div style="display:flex; align-items:center;">
+        <img width="20" height="20" src="https://cdn.simpleicons.org/codeberg/white" alt="Projects" style="margin-right:10px;"/>
+        <span style="font-weight:bold; color:white;">PROJECTS</span>
+        <span style="margin-left:auto; background-color:#1f6feb; color:white; padding:5px 10px; border-radius:5px; font-weight:bold;">15+</span>
+      </div>
+    </td>
+    <td style="width:50%; background-color:#0d1117; border-radius:6px; padding:15px; border:1px solid #30363d;">
+      <div style="display:flex; align-items:center;">
+        <img width="20" height="20" src="https://cdn.simpleicons.org/codersrank/white" alt="Technologies" style="margin-right:10px;"/>
+        <span style="font-weight:bold; color:white;">TECHNOLOGIES</span>
+        <span style="margin-left:auto; background-color:#F723A4; color:white; padding:5px 10px; border-radius:5px; font-weight:bold;">10+</span>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="0" style="width:800px; margin:10px auto; border-collapse:separate; border-spacing:0;">
+  <tr>
+    <td style="width:33.33%; background-color:#161b22; border-radius:6px 0 0 6px; padding:10px; text-align:center; border-top:1px solid #30363d; border-bottom:1px solid #30363d; border-left:1px solid #30363d;">
+      <div style="color:#8b949e; font-size:12px; text-transform:uppercase;">CODE TIME</div>
+      <div style="color:#c9d1d9; font-weight:bold; margin-top:5px;">400+ Hours</div>
+    </td>
+    <td style="width:33.33%; background-color:#161b22; padding:10px; text-align:center; border-top:1px solid #30363d; border-bottom:1px solid #30363d;">
+      <div style="color:#8b949e; font-size:12px; text-transform:uppercase;">WEEKLY COMMITS</div>
+      <div style="color:#c9d1d9; font-weight:bold; margin-top:5px;">12+</div>
+    </td>
+    <td style="width:33.33%; background-color:#161b22; border-radius:0 6px 6px 0; padding:10px; text-align:center; border-top:1px solid #30363d; border-bottom:1px solid #30363d; border-right:1px solid #30363d;">
+      <div style="color:#8b949e; font-size:12px; text-transform:uppercase;">MOST USED LANGUAGE</div>
+      <div style="color:#c9d1d9; font-weight:bold; margin-top:5px;">JavaScript</div>
+    </td>
+  </tr>
+</table>
   </div>
 </div>
 
