@@ -112,14 +112,14 @@
       <div style="display:flex; align-items:center;">
         <img width="20" height="20" src="https://cdn.simpleicons.org/github/white" alt="Repositories" style="margin-right:10px;"/>
         <span style="font-weight:bold; color:white;">REPOSITORIES</span>
-        <span style="margin-left:auto; background-color:#1a1b27; color:#38bdae; padding:5px 10px; border-radius:5px; font-weight:bold;">25+</span>
+        <span style="margin-left:auto; background-color:#1a1b27; color:#38bdae; padding:5px 10px; border-radius:5px; font-weight:bold;">20+</span>
       </div>
     </td>
     <td style="width:50%; background-color:#0d1117; border-radius:6px; padding:15px; border:1px solid #30363d;">
       <div style="display:flex; align-items:center;">
         <img width="20" height="20" src="https://cdn.simpleicons.org/git/white" alt="Contributions" style="margin-right:10px;"/>
         <span style="font-weight:bold; color:white;">CONTRIBUTIONS</span>
-        <span style="margin-left:auto; background-color:#1a1b27; color:#38bdae; padding:5px 10px; border-radius:5px; font-weight:bold;">300+</span>
+        <span style="margin-left:auto; background-color:#1a1b27; color:#38bdae; padding:5px 10px; border-radius:5px; font-weight:bold;">100+</span>
       </div>
     </td>
   </tr>
@@ -135,7 +135,7 @@
       <div style="display:flex; align-items:center;">
         <img width="20" height="20" src="https://cdn.simpleicons.org/codersrank/white" alt="Technologies" style="margin-right:10px;"/>
         <span style="font-weight:bold; color:white;">TECHNOLOGIES</span>
-        <span style="margin-left:auto; background-color:#F723A4; color:white; padding:5px 10px; border-radius:5px; font-weight:bold;">10+</span>
+        <span style="margin-left:auto; background-color:#F723A4; color:white; padding:5px 10px; border-radius:5px; font-weight:bold;">15+</span>
       </div>
     </td>
   </tr>
