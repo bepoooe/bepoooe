@@ -80,10 +80,9 @@
 
 ---
 
-## 📊 GitHub Performance
+## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Primary stats grid -->
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td width="50%">
@@ -93,31 +92,57 @@
         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=bepoooe&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
       </td>
     </tr>
-    <tr>
-      <td width="50%">
-        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bepoooe&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" alt="Top Languages"/>
-      </td>
-      <td width="50%">
-        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bepoooe&theme=tokyonight" alt="Productive Time"/>
-      </td>
-    </tr>
   </table>
   
-  <!-- Combined Activity Graph and Achievements Grid -->
-  <table border="1" cellspacing="0" cellpadding="10" width="100%" style="border-color: #1a1b27; border-style: solid; border-radius: 10px; overflow: hidden;">
+  <!-- Activity Graph Section -->
+  <table border="0" cellspacing="0" cellpadding="0" width="100%">
     <tr>
-      <td align="center" style="border: none; padding-bottom: 0;">
-        <h4 align="center">
+      <td align="center">
         <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bepoooe&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=628fda&line=38bdae&point=38bdae&area=true&radius=10" alt="Adrish's Activity Graph"/>
       </td>
     </tr>
-    <tr>
-      <td align="center" style="border: none; border-top: 1px solid #2d324c; padding-top: 10px;">
-        <h4 align="center"></h4>
-        <img width="90%" src="https://github-profile-trophy.vercel.app/?username=bepoooe&theme=tokyonight&rank=SSS,SS,S,AAA,AA,A,B&column=6&no-frame=true&margin-w=15&margin-h=10" alt="GitHub Trophies"/>
-      </td>
-    </tr>
   </table>
+
+  <!-- Styled Code Metrics - Modern Themed Boxes -->
+  <h3 align="center">🚀 Code Journey</h3>
+  
+  <div align="center">
+    <table border="0" cellspacing="0" cellpadding="10">
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/Repositories-25+-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27"/>
+        </td>
+        <td>
+          <img src="https://img.shields.io/badge/Contributions-300+-38bdae?style=for-the-badge&logo=gitpod&logoColor=white&labelColor=1a1b27"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/Projects-15+-628fda?style=for-the-badge&logo=blueprint&logoColor=white&labelColor=1a1b27"/>
+        </td>
+        <td>
+          <img src="https://img.shields.io/badge/Technologies-10+-F723A4?style=for-the-badge&logo=codepen&logoColor=white&labelColor=1a1b27"/>
+        </td>
+      </tr>
+    </table>
+  </div>
+  
+  <!-- Additional Themed Metrics -->
+  <div align="center">
+    <table border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="33%" align="center">
+          <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=1a1b27&color=38bdae&label=Code%20Time&query=text&url=https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Code%20Time&query=text&url=https://wakapi.dev/api/compat/shields/v1/bepoooe/interval:any/project:all" alt="Code Time"/>
+        </td>
+        <td width="33%" align="center">
+          <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=1a1b27&color=628fda&label=Weekly%20Commits&query=text&url=https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Weekly%20Commits&query=text&url=https://wakapi.dev/api/compat/shields/v1/bepoooe/interval:7_days/project:all" alt="Weekly Commits"/>
+        </td>
+        <td width="33%" align="center">
+          <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=1a1b27&color=F723A4&label=Most%20Used%20Lang&query=text&url=https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Most%20Used%20Lang&query=text&url=https://wakapi.dev/api/compat/shields/v1/bepoooe/interval:any/project:all" alt="Most Used Language"/>
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
 
 ---
