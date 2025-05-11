@@ -140,23 +140,6 @@
     </td>
   </tr>
 </table>
-
-<table border="0" cellspacing="0" cellpadding="0" style="width:800px; margin:10px auto; border-collapse:separate; border-spacing:0;">
-  <tr>
-    <td style="width:33.33%; background-color:#161b22; border-radius:6px 0 0 6px; padding:10px; text-align:center; border-top:1px solid #30363d; border-bottom:1px solid #30363d; border-left:1px solid #30363d;">
-      <div style="color:#8b949e; font-size:12px; text-transform:uppercase;">CODE TIME</div>
-      <div style="color:#c9d1d9; font-weight:bold; margin-top:5px;">400+ Hours</div>
-    </td>
-    <td style="width:33.33%; background-color:#161b22; padding:10px; text-align:center; border-top:1px solid #30363d; border-bottom:1px solid #30363d;">
-      <div style="color:#8b949e; font-size:12px; text-transform:uppercase;">WEEKLY COMMITS</div>
-      <div style="color:#c9d1d9; font-weight:bold; margin-top:5px;">12+</div>
-    </td>
-    <td style="width:33.33%; background-color:#161b22; border-radius:0 6px 6px 0; padding:10px; text-align:center; border-top:1px solid #30363d; border-bottom:1px solid #30363d; border-right:1px solid #30363d;">
-      <div style="color:#8b949e; font-size:12px; text-transform:uppercase;">MOST USED LANGUAGE</div>
-      <div style="color:#c9d1d9; font-weight:bold; margin-top:5px;">JavaScript</div>
-    </td>
-  </tr>
-</table>
   </div>
 </div>
 
