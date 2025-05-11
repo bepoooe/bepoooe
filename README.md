@@ -115,15 +115,28 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td>
-        <img width="450px" src="https://github-readme-stats.vercel.app/api?username=bepoooe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true" alt="Adrish's GitHub stats" />
+        <img width="450px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bepoooe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&cache_seconds=1800" alt="Adrish's GitHub stats" />
       </td>
       <td>
-        <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bepoooe&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+        <img width="450px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bepoooe&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bepoooe&theme=tokyo-night&hide_border=true&custom_title=Adrish's%20Contribution%20Graph&bg_color=1a1b27&color=628fda&line=38bdae&point=38bdae&area=true&radius=10" alt="Adrish's Activity Graph" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=bepoooe&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
       </td>
     </tr>
   </table>
-</div>
 
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bepoooe&theme=tokyonight" width="100%" alt="Contribution Details" />
+  </p>
+</div>
 ---
 
 ## 🌐 Connect With Me
