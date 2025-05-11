@@ -119,7 +119,7 @@
 
 ## 🎨 Beyond The Code
 
-<div align="left">
+<div align="center">
 <ul>
   <li>🎵 <b>Fine Arts:</b> 4 years of formal art education</li>
   <li>🧮 <b>Abacus:</b> Regional competition winner</li>
@@ -132,8 +132,10 @@
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
 </div>
 
----
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=120&section=footer&animation=twinkling&fontColor=FFFFFF"/>
 </div>
+
+---
