@@ -103,17 +103,18 @@
     </tr>
   </table>
   
-  <!-- Activity Graph -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bepoooe&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph&bg_color=1a1b27&color=628fda&line=38bdae&point=38bdae&area=true&radius=10" alt="Adrish's Activity Graph"/>
-  
-  ---
-  
-  <!-- Trophies Section - Dedicated Grid -->
+  <!-- Combined Activity Graph and Achievements Grid -->
   <table border="1" cellspacing="0" cellpadding="10" width="100%" style="border-color: #1a1b27; border-style: solid; border-radius: 10px; overflow: hidden;">
     <tr>
-      <td align="center" style="border: none;">
+      <td align="center" style="border: none; padding-bottom: 0;">
+        <h4 align="center">📈 Contribution Graph</h4>
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bepoooe&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=628fda&line=38bdae&point=38bdae&area=true&radius=10" alt="Adrish's Activity Graph"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border: none; border-top: 1px solid #2d324c; padding-top: 10px;">
         <h4 align="center">🏆 GitHub Achievements</h4>
-        <img width="100%" src="https://github-profile-trophy.vercel.app/?username=bepoooe&theme=tokyonight&rank=SSS,SS,S,AAA,AA,A,B&column=7&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
+        <img width="90%" src="https://github-profile-trophy.vercel.app/?username=bepoooe&theme=tokyonight&rank=SSS,SS,S,AAA,AA,A,B&column=6&no-frame=true&margin-w=15&margin-h=10" alt="GitHub Trophies"/>
       </td>
     </tr>
   </table>
