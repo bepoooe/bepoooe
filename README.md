@@ -80,63 +80,34 @@
 
 ---
 
-## 📈 Stats & Activity
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=bepoooe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=bepoooe&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bepoooe&theme=tokyonight" alt="Top Languages by Repo"/>
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bepoooe&theme=tokyonight" alt="Productive Time"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bepoooe&theme=tokyo-night&hide_border=true&custom_title=Adrish's%20Contribution%20Graph" alt="Adrish's GitHub Activity Graph"/>
-</div>
-
----
-
 ## 📊 GitHub Performance
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>
-        <img width="450px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bepoooe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&cache_seconds=1800" alt="Adrish's GitHub stats" />
-      </td>
-      <td>
-        <img width="450px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bepoooe&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bepoooe&theme=tokyo-night&hide_border=true&custom_title=Adrish's%20Contribution%20Graph&bg_color=1a1b27&color=628fda&line=38bdae&point=38bdae&area=true&radius=10" alt="Adrish's Activity Graph" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=bepoooe&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
-      </td>
-    </tr>
-  </table>
-
-  <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bepoooe&theme=tokyonight" width="100%" alt="Contribution Details" />
+  <!-- First row - Main stats and streak -->
+  <p align="center">
+    <img width="49%" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bepoooe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&cache_seconds=1800" alt="Adrish's GitHub stats" />
+    <img width="49%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bepoooe&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
   </p>
+  
+  <!-- Second row - Languages and trophy grid -->
+  <p align="center">
+    <img width="42%" height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bepoooe&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" alt="Top Languages" />
+    <img width="56%" src="https://github-profile-trophy.vercel.app/?username=bepoooe&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+  </p>
+  
+  <!-- Third row - Activity graph -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bepoooe&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph&bg_color=1a1b27&color=628fda&line=38bdae&point=38bdae&area=true&radius=10" alt="Adrish's Activity Graph" />
+  
+  <!-- Fourth row - Additional insights -->
+  <p align="center">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bepoooe&theme=tokyonight" alt="Top Languages by Repo" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bepoooe&theme=tokyonight" alt="Productive Time" />
+  </p>
+  
+  <!-- Fifth row - Profile details -->
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bepoooe&theme=tokyonight" alt="Contribution Details" />
 </div>
+
 ---
 
 ## 🌐 Connect With Me
@@ -165,7 +136,6 @@
   <li>🧮 <b>Abacus:</b> Regional competition winner</li>
   <li>📸 <b>Photography:</b> Skilled in capturing moments and editing</li>
   <li>🥋 <b>Martial Arts:</b> Green Belt in Karate</li>
-  
 </ul>
 
 <div align="center">
