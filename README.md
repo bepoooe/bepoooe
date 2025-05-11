@@ -105,43 +105,8 @@
 
   <!-- Styled Code Metrics - Modern Themed Boxes -->
   <h3 align="center">🚀 Code Journey</h3>
-  
- <table border="0" cellspacing="0" cellpadding="0" style="width:800px; margin:20px auto; border-collapse:separate; border-spacing:10px;">
-  <tr>
-    <td style="width:50%; background-color:#0d1117; border-radius:6px; padding:15px; border:1px solid #30363d;">
-      <div style="display:flex; align-items:center;">
-        <img width="20" height="20" src="https://cdn.simpleicons.org/github/white" alt="Repositories" style="margin-right:10px;"/>
-        <span style="font-weight:bold; color:white;">REPOSITORIES</span>
-        <span style="margin-left:auto; background-color:#1a1b27; color:#38bdae; padding:5px 10px; border-radius:5px; font-weight:bold;">20+</span>
-      </div>
-    </td>
-    <td style="width:50%; background-color:#0d1117; border-radius:6px; padding:15px; border:1px solid #30363d;">
-      <div style="display:flex; align-items:center;">
-        <img width="20" height="20" src="https://cdn.simpleicons.org/git/white" alt="Contributions" style="margin-right:10px;"/>
-        <span style="font-weight:bold; color:white;">CONTRIBUTIONS</span>
-        <span style="margin-left:auto; background-color:#1a1b27; color:#38bdae; padding:5px 10px; border-radius:5px; font-weight:bold;">100+</span>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td style="width:50%; background-color:#0d1117; border-radius:6px; padding:15px; border:1px solid #30363d;">
-      <div style="display:flex; align-items:center;">
-        <img width="20" height="20" src="https://cdn.simpleicons.org/codeberg/white" alt="Projects" style="margin-right:10px;"/>
-        <span style="font-weight:bold; color:white;">PROJECTS</span>
-        <span style="margin-left:auto; background-color:#1f6feb; color:white; padding:5px 10px; border-radius:5px; font-weight:bold;">15+</span>
-      </div>
-    </td>
-    <td style="width:50%; background-color:#0d1117; border-radius:6px; padding:15px; border:1px solid #30363d;">
-      <div style="display:flex; align-items:center;">
-        <img width="20" height="20" src="https://cdn.simpleicons.org/codersrank/white" alt="Technologies" style="margin-right:10px;"/>
-        <span style="font-weight:bold; color:white;">TECHNOLOGIES</span>
-        <span style="margin-left:auto; background-color:#F723A4; color:white; padding:5px 10px; border-radius:5px; font-weight:bold;">15+</span>
-      </div>
-    </td>
-  </tr>
-</table>
-  </div>
-</div>
+
+<div align="center"> <table> <tr> <td> <img src="https://img.shields.io/badge/20%2B-%20repos-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/> </td> <td> <img src="https://img.shields.io/badge/100%2B-%20commits-a78bfa?style=for-the-badge&logo=git&logoColor=white" alt="Commits"/> </td> <td> <img src="https://img.shields.io/badge/15%2B-%20projects-3b82f6?style=for-the-badge&logo=codeberg&logoColor=white" alt="Projects"/> </td> <td> <img src="https://img.shields.io/badge/15%2B-%20technologies-f472b6?style=for-the-badge&logo=codersrank&logoColor=white" alt="Technologies"/> </td> </tr> </table> </div>
 
 ---
 
