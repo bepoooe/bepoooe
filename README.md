@@ -119,7 +119,7 @@
 
 ## 🎨 Beyond The Code
 
-<div align="center">
+<div align="left">
 <ul>
   <li>🎵 <b>Fine Arts:</b> 4 years of formal art education</li>
   <li>🧮 <b>Abacus:</b> Regional competition winner</li>
