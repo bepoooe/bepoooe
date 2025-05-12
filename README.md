@@ -86,15 +86,40 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td width="50%">
-        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bepoooe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img width="100%" src="https://github-readme-stats-mu-dusky.vercel.app/api?username=bepoooe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
+        </a>
       </td>
       <td width="50%">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=bepoooe&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+        <a href="https://git.io/streak-stats">
+          <img width="100%" src="https://github-readme-streak-stats-coral-alpha.vercel.app/?user=bepoooe&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+        </a>
       </td>
     </tr>
   </table>
   
-  <div align="center"> <table width="90%" style="border:1px solid #444; border-radius: 10px; padding: 10px;" cellspacing="10"> <tr> <td colspan="2" align="center"> <h3></h3> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bepoooe&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=628fda&line=38bdae&point=38bdae&area=true&radius=10" alt="Adrish's Activity Graph"/> </td> </tr> <tr> <td colspan="2" align="center"> <h3>📈 Code Journey Summary</h3> <table> <tr> <td> <img src="https://img.shields.io/badge/20%2B-%20repos-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/> </td> <td> <img src="https://img.shields.io/badge/100%2B-%20commits-a78bfa?style=for-the-badge&logo=git&logoColor=white" alt="Commits"/> </td> <td> <img src="https://img.shields.io/badge/15%2B-%20projects-3b82f6?style=for-the-badge&logo=codeberg&logoColor=white" alt="Projects"/> </td> <td> <img src="https://img.shields.io/badge/15%2B-%20technologies-f472b6?style=for-the-badge&logo=codersrank&logoColor=white" alt="Technologies"/> </td> </tr> </table> </td> </tr> </table> </div>
+  <div align="center">
+    <table width="90%" style="border:1px solid #444; border-radius: 10px; padding: 10px;" cellspacing="10">
+      <tr>
+        <td colspan="2" align="center">
+          <img width="100%" src="https://github-readme-activity-graph-sandy.vercel.app/graph?username=bepoooe&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=628fda&line=38bdae&point=38bdae&area=true&radius=10" alt="Adrish's Activity Graph"/>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center">
+          <h3>📈 Code Journey Summary</h3>
+          <table>
+            <tr>
+              <td><img src="https://img.shields.io/badge/20%2B-%20repos-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></td>
+              <td><img src="https://img.shields.io/badge/100%2B-%20commits-a78bfa?style=for-the-badge&logo=git&logoColor=white" alt="Commits"/></td>
+              <td><img src="https://img.shields.io/badge/15%2B-%20projects-3b82f6?style=for-the-badge&logo=codeberg&logoColor=white" alt="Projects"/></td>
+              <td><img src="https://img.shields.io/badge/15%2B-%20technologies-f472b6?style=for-the-badge&logo=codersrank&logoColor=white" alt="Technologies"/></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </div>
 
 ---
 
