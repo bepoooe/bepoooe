@@ -91,8 +91,8 @@
         </a>
       </td>
       <td width="50%">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bepoooe&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages"/>
+        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+          <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=bepoooe&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
         </a>
       </td>
     </tr>
