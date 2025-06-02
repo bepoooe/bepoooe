@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm Adrish Basak  </h1>
+<h1 align="center">Hi, I'm Adrish Basak </h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F723A4&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Full-stack+Developer;Machine+Learning+Enthusiast;Digital+Craftsman" alt="Typing SVG" />
 </p>
