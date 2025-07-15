@@ -110,8 +110,8 @@
           <h3>📈 Code Journey Summary</h3>
           <table>
             <tr>
-              <td><img src="https://img.shields.io/badge/20%2B-%20repos-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></td>
-              <td><img src="https://img.shields.io/badge/100%2B-%20commits-a78bfa?style=for-the-badge&logo=git&logoColor=white" alt="Commits"/></td>
+              <td><img src="https://img.shields.io/badge/30%2B-%20repos-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></td>
+              <td><img src="https://img.shields.io/badge/800%2B-%20commits-a78bfa?style=for-the-badge&logo=git&logoColor=white" alt="Commits"/></td>
               <td><img src="https://img.shields.io/badge/15%2B-%20projects-3b82f6?style=for-the-badge&logo=codeberg&logoColor=white" alt="Projects"/></td>
               <td><img src="https://img.shields.io/badge/15%2B-%20technologies-f472b6?style=for-the-badge&logo=codersrank&logoColor=white" alt="Technologies"/></td>
             </tr>
