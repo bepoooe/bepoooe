@@ -29,11 +29,11 @@
       <td width="50%">
         <h3>🧑‍💻 About Me</h3>
         <ul>
-          <li>🎓 B.Tech in Computer Science (2023-2027)</li>
-          <li>💻 Full-stack developer focused on creative solutions</li>
-          <li>🚀 ML & Backend enthusiast and project builder</li>
-          <li>🛠️ Tech explorer passionate about innovative solutions</li>
-          <li>🌐 Constantly learning and evolving my skill set</li>
+          <li> B.Tech in Computer Science (2023-2027)</li>
+          <li> Full-stack developer focused on creative solutions</li>
+          <li> ML & Backend enthusiast and project builder</li>
+          <li> Tech explorer passionate about innovative solutions</li>
+          <li> Constantly learning and evolving my skill set</li>
         </ul>
       </td>
     </tr>
