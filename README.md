@@ -14,6 +14,22 @@
 ---
 
 <div align="center">
+  **Terminal-style Preview**
+
+  Open the interactive terminal-centric dual-tone mockup locally: [terminal-dashboard.html](terminal-dashboard.html)
+
+  To open on Windows, run:
+
+  ```bash
+  start terminal-dashboard.html
+  ```
+
+  Or open the file directly in your browser.
+</div>
+
+---
+
+<div align="center">
   <table border="0" width="100%" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center">

@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Terminal Dashboard — Dual-tone Preview</title>
+  <style>
+    :root{--bg:#05070a;--panel:#071017;--accent1:#2f9cff;--accent2:#f6c85f;--muted:#7b8794}
+    html,body{height:100%;margin:0;background:linear-gradient(180deg,var(--bg),#071017);font-family:Consolas,monospace;color:#cbd5e1}
+    .wrap{max-width:980px;margin:36px auto;padding:14px}
+    .terminal{background:var(--panel);border-radius:10px;border:1px solid rgba(255,255,255,0.03);box-shadow:0 20px 50px rgba(2,6,23,0.7);overflow:hidden}
+    .term-header{display:flex;align-items:center;gap:12px;padding:10px 14px;border-bottom:1px solid rgba(255,255,255,0.02)}
+    .dots{display:flex;gap:8px}
+    .dot{width:12px;height:12px;border-radius:50%}
+    .dot.blue{background:var(--accent1)}
+    .dot.yellow{background:var(--accent2)}
+    .title{flex:1;color:#9fb9ff;font-weight:600}
+    .meta{color:var(--muted);font-size:13px}
+    .term-body{display:flex;gap:18px;padding:18px}
+    .left{flex:1;min-width:260px}
+    .stat{background:rgba(255,255,255,0.02);padding:10px 12px;border-radius:6px;margin-bottom:10px}
+    .stat h3{margin:0;font-size:13px;color:var(--accent1)}
+    .stat p{margin:6px 0 0;color:var(--muted);font-size:15px}
+    .right{width:340px;display:flex;flex-direction:column;align-items:center;justify-content:center}
+    .langs{list-style:none;padding:0;margin:12px 0 0;width:100%}
+    .langs li{display:flex;align-items:center;gap:10px;padding:6px 0;color:#cbd5e1}
+    .sw{width:14px;height:14px;border-radius:3px}
+    .footer{padding:12px 16px;border-top:1px solid rgba(255,255,255,0.02);color:var(--muted);font-size:13px}
+    svg{display:block}
+    @media(max-width:840px){.term-body{flex-direction:column}.right{width:100%}}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="terminal">
+      <div class="term-header">
+        <div class="dots"><div class="dot blue"></div><div class="dot yellow"></div></div>
+        <div class="title">bepoooe@local:~/profile</div>
+        <div class="meta">dual-tone • terminal preview</div>
+      </div>
+
+      <div class="term-body">
+        <div class="left">
+          <div class="stat"><h3>Total Stars</h3><p>19</p></div>
+          <div class="stat"><h3>Total Commits</h3><p>804</p></div>
+          <div class="stat"><h3>Total PRs</h3><p>3</p></div>
+          <div class="stat"><h3>Total Issues</h3><p>1</p></div>
+          <div class="stat"><h3>Contributed to</h3><p>18</p></div>
+        </div>
+
+        <div class="right">
+          <svg width="220" height="220" viewBox="0 0 42 42" aria-label="Top languages donut" role="img">
+            <circle r="15.915" cx="21" cy="21" fill="transparent" stroke="#071017" stroke-width="10"></circle>
+            <circle r="15.915" cx="21" cy="21" fill="transparent" stroke="var(--accent1)" stroke-width="10" stroke-dasharray="60 40" stroke-dashoffset="25"></circle>
+            <circle r="15.915" cx="21" cy="21" fill="transparent" stroke="var(--accent2)" stroke-width="10" stroke-dasharray="25 75" stroke-dashoffset="-15"></circle>
+            <g transform="translate(21,21)">
+              <text x="0" y="1.2" text-anchor="middle" fill="#cbd5e1" font-size="3">Top Languages</text>
+            </g>
+          </svg>
+
+          <ul class="langs">
+            <li><span class="sw" style="background:var(--accent1)"></span>TypeScript</li>
+            <li><span class="sw" style="background:var(--accent2)"></span>JavaScript</li>
+            <li><span class="sw" style="background:#ff6b6b"></span>HTML</li>
+            <li><span class="sw" style="background:#6cc644"></span>Python</li>
+            <li><span class="sw" style="background:#ff8c42"></span>Jupyter Notebook</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="footer">Open this file locally to preview the terminal-centric, dual-tone layout.</div>
+    </div>
+  </div>
+</body>
+</html>
