@@ -1,40 +1,16 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm Adrish Basak </h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F723A4&background=0d1117&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Full-stack+Developer;Machine+Learning+Enthusiast;Digital+Craftsman" alt="Typing SVG" />
-</p>
-
 <div align="center">
-  <a href="https://github.com/bepoooe?tab=followers">
-    <img src="https://img.shields.io/github/followers/bepoooe?style=for-the-badge&logo=github&labelColor=black&color=20A7EC" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/bepoooe?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/bepoooe?style=for-the-badge&logo=github&labelColor=black&color=E3492B" alt="GitHub User's stars" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=bepoooe&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <img src="./assets/dark_mode.svg" alt="ASCII GitHub profile card" width="100%" />
 </div>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/adrishbasak"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-</p>
 
 ---
 
 <div align="center">
   <table border="0" width="100%" cellspacing="0" cellpadding="0">
     <tr>
-      <td width="52%" align="center" valign="middle">
-        <img src="./assets/dark_mode.svg" alt="ASCII GitHub profile card" width="100%" />
-      </td>
-      <td width="48%" valign="middle">
-        <h3>🧑‍💻 About Me</h3>
-        <ul>
-          <li> B.Tech in Computer Science (2023-2027)</li>
-          <li> Full-stack developer focused on creative solutions</li>
-          <li> ML & Backend enthusiast and project builder</li>
-          <li> Tech explorer passionate about innovative solutions</li>
-          <li> Constantly learning and evolving my skill set</li>
-        </ul>
+      <td align="center">
+        <div style="background:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px; max-width:980px;">
+          <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg?username=bepoooe&theme=github-dark&color=38bdae&background=0d1117" alt="GitHub contribution snake" width="100%" />
+        </div>
       </td>
     </tr>
   </table>
@@ -42,125 +18,16 @@
 
 ---
 
-## 🚀 Tech Stack
-
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <h4 align="center">Languages & Frameworks</h4>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,threejs,tailwind" />
-        </p>
-      </td>
-      <td>
-        <h4 align="center">Tools & Technologies</h4>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=git,figma,vercel,vscode,github,html,css,firebase" />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <details>
-          <summary><h4 align="center">More Skills</h4></summary>
-          <p align="center">
-            <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-            <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-          </p>
-        </details>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img width="100%" src="https://github-readme-stats-mu-dusky.vercel.app/api?username=bepoooe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-          <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=bepoooe&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-  
-  <div align="center">
-    <table width="90%" style="border:1px solid #444; border-radius: 10px; padding: 10px;" cellspacing="10">
-      <tr>
-        <td colspan="2" align="center">
-          <img width="100%" src="https://github-readme-activity-graph-sandy.vercel.app/graph?username=bepoooe&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=628fda&line=38bdae&point=38bdae&area=true&radius=10" alt="Adrish's Activity Graph"/>
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2" align="center">
-          <h3>📈 Code Journey Summary</h3>
-          <table>
-            <tr>
-              <td><img src="https://img.shields.io/badge/30%2B-%20repos-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></td>
-              <td><img src="https://img.shields.io/badge/800%2B-%20commits-a78bfa?style=for-the-badge&logo=git&logoColor=white" alt="Commits"/></td>
-              <td><img src="https://img.shields.io/badge/15%2B-%20projects-3b82f6?style=for-the-badge&logo=codeberg&logoColor=white" alt="Projects"/></td>
-              <td><img src="https://img.shields.io/badge/15%2B-%20technologies-f472b6?style=for-the-badge&logo=codersrank&logoColor=white" alt="Technologies"/></td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
+  <div style="background:#0d1117; border:1px solid #30363d; border-radius:12px; padding:22px 26px; max-width:980px; box-shadow:0 0 0 1px rgba(255,255,255,0.02);">
+    <pre style="margin:0; white-space:pre-wrap; color:#c9d1d9; font-family:'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace; font-size:15px; line-height:1.7;">
+────────────────────────────────────────
+  // JOKE OF THE DAY
+────────────────────────────────────────
+Why do programmers prefer dark mode?
+Because light attracts bugs.
+────────────────────────────────────────
+    </pre>
   </div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://www.instagram.com/bepoisdying/?hl=en">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/adrish-basak-6a7030275/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:adrishbasak003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/bepoooe">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </div>
 
----
-
-## 🎨 Beyond The Code
-
-<div align="left">
-<ul>
-  <li>🎵 <b>Fine Arts:</b> 4 years of formal art education</li>
-  <li>🧮 <b>Abacus:</b> Regional competition winner</li>
-  <li>📸 <b>Photography:</b> Skilled in capturing moments and Adobe Lightroom</li>
-  <li>🥋 <b>Martial Arts:</b> Green Belt in Karate</li>
-</ul>
-</div>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-</div>
-
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=120&section=footer&animation=twinkling&fontColor=FFFFFF"/>
-</div>
-
----
