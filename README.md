@@ -1,4 +1,9 @@
 <div align="center">
+  <h2 style="margin-bottom:8px; color:#c9d1d9; font-family:'Consolas','Menlo','DejaVu Sans Mono',monospace; letter-spacing:2px;">bepoooe@github:~$ ./intro</h2>
+  <p style="margin-top:0; color:#8b949e; font-family:'Consolas','Menlo','DejaVu Sans Mono',monospace;">building ideas, one commit at a time.</p>
+</div>
+
+<div align="center">
   <img src="./assets/dark_mode.svg" alt="ASCII GitHub profile card" width="100%" />
 </div>
 
@@ -9,7 +14,7 @@
     <tr>
       <td align="center">
         <div style="background:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px; max-width:980px;">
-          <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg?username=bepoooe&theme=github-dark&color=38bdae&background=0d1117" alt="GitHub contribution snake" width="100%" />
+          <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg?username=bepoooe&theme=github-dark&color=58a6ff&background=0d1117" alt="GitHub contribution snake" width="100%" />
         </div>
       </td>
     </tr>
@@ -21,12 +26,15 @@
 <div align="center">
   <div style="background:#0d1117; border:1px solid #30363d; border-radius:12px; padding:22px 26px; max-width:980px; box-shadow:0 0 0 1px rgba(255,255,255,0.02);">
     <pre style="margin:0; white-space:pre-wrap; color:#c9d1d9; font-family:'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace; font-size:15px; line-height:1.7;">
-────────────────────────────────────────
-  // JOKE OF THE DAY
-────────────────────────────────────────
-Why do programmers prefer dark mode?
-Because light attracts bugs.
-────────────────────────────────────────
+────────────────────────────────────────────────────
+  // SYSTEM STATUS
+────────────────────────────────────────────────────
+status  : online
+mood    : curious + caffeinated
+focus   : building clean products and wild ideas
+vibe    : dark mode, sharp code, soft chaos
+last log: turning concepts into interfaces
+────────────────────────────────────────────────────
     </pre>
   </div>
 </div>
