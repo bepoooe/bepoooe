@@ -28,8 +28,24 @@
 ---
 
 <div align="center">
-  <div style="background:#0d1117; border:1px solid #30363d; border-radius:12px; padding:14px; max-width:980px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=bepoooe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff" alt="Dynamic GitHub stats" width="100%" />
+  <div style="background:#0d1117; border:1px solid #30363d; border-radius:12px; padding:20px 24px; max-width:980px; font-family:'Consolas','Menlo','DejaVu Sans Mono',monospace; color:#c9d1d9;">
+    <pre style="margin:0; color:#c9d1d9; white-space:pre-wrap; font-size:14px; line-height:1.7;">
+┌──────────────────────────────────────────────┐
+│            [ DEBUG MODE: ACTIVE ]            │
+├──────────────────────────────────────────────┤
+│  user: bepoooe                              │
+│  status: coding in the dark                 │
+│  objective: ship weird ideas brilliantly    │
+│  level: 99                                 │
+│  exp: 8,906 / 9,999                        │
+│  streak: 202 days                          │
+│                                            │
+│  > npm run build                           │
+│  > fixing bugs with style                  │
+│  > chasing ideas like a gremlin            │
+│  > commit and repeat                       │
+└──────────────────────────────────────────────┘
+    </pre>
   </div>
 </div>
 
