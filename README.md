@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://gh.crafter.run/?u=bepoooe" alt="Live GitHub profile card" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bepoooe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub profile card" width="100%" />
 </div>
 
 ---
