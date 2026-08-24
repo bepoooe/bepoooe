@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/dark_mode.svg" alt="ASCII GitHub profile card" width="100%" />
+  <img src="https://gh.crafter.run/?u=bepoooe" alt="Live GitHub profile card" width="100%" />
 </div>
 
 ---
@@ -14,7 +14,7 @@
     <tr>
       <td align="center">
         <div style="background:#0d1117; border:1px solid #30363d; border-radius:12px; padding:16px; max-width:980px;">
-          <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg?username=bepoooe&theme=github-dark&color=58a6ff&background=0d1117" alt="GitHub contribution snake" width="100%" />
+          <img src="https://raw.githubusercontent.com/bepoooe/bepoooe/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="100%" />
         </div>
       </td>
     </tr>
