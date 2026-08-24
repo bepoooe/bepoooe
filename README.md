@@ -28,18 +28,8 @@
 ---
 
 <div align="center">
-  <div style="background:#0d1117; border:1px solid #30363d; border-radius:12px; padding:22px 26px; max-width:980px; box-shadow:0 0 0 1px rgba(255,255,255,0.02);">
-    <pre style="margin:0; white-space:pre-wrap; color:#c9d1d9; font-family:'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace; font-size:15px; line-height:1.7;">
-────────────────────────────────────────────────────
-  // SYSTEM STATUS
-────────────────────────────────────────────────────
-status  : online
-mood    : curious + caffeinated
-focus   : building clean products and wild ideas
-vibe    : dark mode, sharp code, soft chaos
-last log: turning concepts into interfaces
-────────────────────────────────────────────────────
-    </pre>
+  <div style="background:#0d1117; border:1px solid #30363d; border-radius:12px; padding:14px; max-width:980px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=bepoooe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff" alt="Dynamic GitHub stats" width="100%" />
   </div>
 </div>
 
