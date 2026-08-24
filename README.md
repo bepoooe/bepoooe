@@ -14,8 +14,8 @@
 ---
 
 <div align="center">
-  <h2 style="margin-bottom:8px; color:#c9d1d9; font-family:'Consolas','Menlo','DejaVu Sans Mono',monospace; letter-spacing:2px;">bepoooe@github:~$ ./contri</h2>
-  <p style="margin-top:0; color:#8b949e; font-family:'Consolas','Menlo','DejaVu Sans Mono',monospace;">snake game</p>
+  <h2 style="margin-bottom:8px; color:#c9d1d9; font-family:'Consolas','Menlo','DejaVu Sans Mono',monospace; letter-spacing:2px;">bepoooe@github:~$ ./gitsnake</h2>
+  <p style="margin-top:0; color:#8b949e; font-family:'Consolas','Menlo','DejaVu Sans Mono',monospace;"></p>
 </div>
 
 <div align="center">
