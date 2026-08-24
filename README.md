@@ -24,12 +24,5 @@
     </tr>
   </table>
 </div>
- 
-
-<div align="center">
-  <div style="background:#0d1117; border:1px solid #30363d; border-radius:12px; padding:12px; max-width:980px; margin-top:12px;">
-    <img src="https://camo.githubusercontent.com/d2f3a46a23850f14f8832172698ba39a8aa0a907b308e3518cff352f1a491686/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d6265706f6f6f65267468656d653d6769746875625f6461726b" alt="GitHub stats horizontal" width="100%" />
-  </div>
-</div>
 
 ---
