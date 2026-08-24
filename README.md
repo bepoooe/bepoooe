@@ -28,15 +28,17 @@
 ---
 
 <div align="center">
-  <table border="0" width="100%" cellspacing="0" cellpadding="10">
-    <tr>
-      <td width="50%" valign="top" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bepoooe&theme=github_dark" alt="GitHub stats summary" width="100%" />
-      </td>
-      <td width="50%" valign="top" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bepoooe&theme=github_dark" alt="GitHub repos per language" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <div style="background:#07141f; border:1px solid #2d3d52; border-radius:18px; box-shadow:inset 0 0 0 1px rgba(148,163,184,0.12); padding:18px 18px 10px; max-width:980px;">
+    <table border="0" width="100%" cellspacing="0" cellpadding="10">
+      <tr>
+        <td width="50%" valign="top" align="center">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bepoooe&theme=github_dark" alt="GitHub stats summary" width="100%" />
+        </td>
+        <td width="50%" valign="top" align="center">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bepoooe&theme=github_dark" alt="GitHub repos per language" width="100%" />
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
 
