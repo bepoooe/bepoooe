@@ -37,11 +37,6 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bepoooe&theme=github_dark" alt="GitHub repos per language" width="100%" />
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-activity-graph-sandy.vercel.app/graph?username=bepoooe&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=628fda&line=38bdae&point=38bdae&area=true&radius=10" alt="GitHub activity graph" width="100%" />
-      </td>
-    </tr>
   </table>
 </div>
 
