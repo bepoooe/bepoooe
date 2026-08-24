@@ -24,68 +24,73 @@
   <table border="0" width="100%" cellspacing="0" cellpadding="0">
     <tr>
       <td width="52%" align="center" valign="middle">
-        <svg width="100%" viewBox="0 0 560 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Dark themed developer illustration">
-          <defs>
-            <linearGradient id="bgGrad" x1="0" x2="1" y1="0" y2="1">
-              <stop offset="0%" stop-color="#081321"/>
-              <stop offset="100%" stop-color="#010b17"/>
-            </linearGradient>
-            <linearGradient id="panelGrad" x1="0" x2="1" y1="0" y2="1">
-              <stop offset="0%" stop-color="#0b1728"/>
-              <stop offset="100%" stop-color="#050d18"/>
-            </linearGradient>
-          </defs>
-
-          <rect x="0" y="0" width="560" height="340" rx="18" fill="url(#bgGrad)"/>
-          <rect x="22" y="22" width="516" height="296" rx="16" fill="url(#panelGrad)" stroke="#d4a640" stroke-width="2.5"/>
-
-          <rect x="48" y="44" width="460" height="22" rx="8" fill="#101d31" stroke="#d4a640" stroke-width="1.5"/>
-          <circle cx="67" cy="55" r="4" fill="#d4a640"/>
-          <circle cx="82" cy="55" r="4" fill="#f0d38a"/>
-          <circle cx="97" cy="55" r="4" fill="#d4a640"/>
-          <text x="112" y="60" fill="#f4d98a" font-family="monospace" font-size="10">www.youtube.com</text>
-
-          <rect x="120" y="94" width="152" height="182" rx="12" fill="#c7c0b1" opacity="0.2"/>
-          <rect x="140" y="104" width="112" height="30" rx="8" fill="#d8cebf" opacity="0.52"/>
-
-          <g opacity="0.9">
-            <path d="M88 254C116 242 124 227 140 221C158 214 176 224 192 216C207 208 210 195 224 194C249 191 244 219 257 228C271 236 292 234 308 219L332 197C347 184 379 177 395 192C407 203 410 216 424 226C441 238 460 242 483 246V279H88V254Z" fill="#f1dcc0"/>
-            <path d="M88 283H483V289H88V283Z" fill="#e7d3ad" opacity="0.8"/>
-            <path d="M125 211C130 196 148 187 165 190C179 193 188 204 190 219L149 230L125 211Z" fill="#100d10" opacity="0.75"/>
-            <path d="M188 210L214 220L194 238L170 228L188 210Z" fill="#0d0d14" opacity="0.75"/>
-            <path d="M148 246C155 224 172 210 194 209C209 208 221 218 226 232L148 246Z" fill="#1d1a22" opacity="0.82"/>
-          </g>
-
-          <g>
-            <rect x="244" y="113" width="98" height="148" rx="16" fill="#2f4ae5" opacity="0.9"/>
-            <rect x="258" y="127" width="70" height="16" rx="4" fill="#4d64eb" opacity="0.85"/>
-            <rect x="258" y="150" width="70" height="16" rx="4" fill="#4d64eb" opacity="0.85"/>
-            <rect x="258" y="173" width="70" height="16" rx="4" fill="#4d64eb" opacity="0.85"/>
-            <rect x="258" y="196" width="70" height="16" rx="4" fill="#4d64eb" opacity="0.85"/>
-            <rect x="258" y="219" width="70" height="16" rx="4" fill="#4d64eb" opacity="0.85"/>
-          </g>
-
-          <g>
-            <rect x="355" y="110" width="92" height="150" rx="16" fill="#f0d98d" opacity="0.1"/>
-            <path d="M382 191L407 212L382 190L360 203L382 191Z" fill="#f7d66f" opacity="0.72"/>
-            <path d="M364 234C370 213 389 205 410 213C425 219 434 231 435 247L365 252L364 234Z" fill="#f9d889" opacity="0.67"/>
-          </g>
-
-          <g>
-            <rect x="192" y="86" width="12" height="110" rx="6" fill="#c8a63d" opacity="0.78"/>
-            <rect x="218" y="100" width="12" height="96" rx="6" fill="#c8a63d" opacity="0.78"/>
-            <rect x="244" y="120" width="12" height="76" rx="6" fill="#c8a63d" opacity="0.78"/>
-            <rect x="270" y="134" width="12" height="62" rx="6" fill="#c8a63d" opacity="0.78"/>
-          </g>
-
-          <g fill="#0e1723" opacity="0.85">
-            <circle cx="160" cy="216" r="6"/>
-            <circle cx="178" cy="228" r="7"/>
-            <circle cx="198" cy="245" r="6"/>
-            <circle cx="213" cy="233" r="5"/>
-            <circle cx="135" cy="232" r="6"/>
-          </g>
-        </svg>
+        <img src="data:image/svg+xml;utf8,
+<svg xmlns='http://www.w3.org/2000/svg' width='1317' height='574.4' viewBox='0 0 1317 574.4' role='img' aria-label='ASCII GitHub profile card for bepoooe'>
+  <rect x='0.5' y='0.5' width='1316' height='573.4' rx='8' fill='#0d1117' stroke='#30363d'/>
+  <text x='28' y='34.6' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>.......................................::::::::::: : : : : : : :       :                             : :  : : : : : : : : :::::::::::.....</text>
+  <text x='28' y='44.2' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
+  <text x='28' y='53.8' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjjjjjjjjjjjjjjjjj========jjjjjjjjjjjjjjjjjjjjv=jjjjjjjjjjj:j:j:::::::::::::::::::::::::::::::::::::::::::::::::::::::j:j:j:j:j:j:j:j:j:j</text>
+  <text x='28' y='63.400000000000006' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>j:j:j:j::::::::::j:j:j:jjjjj:j:j:j:j:jjjjjjjjjjj::j:::::j:j::::::::::::::::::::::::::::::::::::::::j:j:j:j:j:j:j:j:jjjjjj:j:j:j:jjjjjjjjjjjj</text>
+  <text x='28' y='73' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjjjjjjjjjjjj:j:j:j:j::j:j:j:j:::jjjjjjjjjjjjjjjjj:j:j:j:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::j:j:</text>
+  <text x='28' y='82.6' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>j:j:::::::::::::::::j:j:j:j::::::jjjxxxjjxxj=jjjjjjjjjjjjjjj::::::::::: :               : ::::::::::::::::::::::::::::::::::::::::::::::::::</text>
+  <text x='28' y='92.2' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>j:j:j:j:::::::::j::::::::j:j:j:j:jio==|=!::: ::::::: :::::jjjjj:::________________________________________________________j:j:j:jj:jjjjjjjjj</text>
+  <text x='28' y='101.8' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj:::::   : :              ::::jjjjxxooooooooooooooooooooooooooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxjjjjjjjjj</text>
+  <text x='28' y='111.39999999999999' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjjjjjjjjjxxxxxxxxxxxxxxxxxj::                          :: ::jxo@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@o@o@ooooooooooooooooooxxxxxxxxxxxxxxxxxxx</text>
+  <text x='28' y='121' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjjxxxxxxxxxxxoooooooooooo|::               : ::::          ::jo@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@o@oooooooooooooooxx</text>
+  <text x='28' y='130.6' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjxxxxxxxxxoooooooooooo@o@o|:                :   :::: :    : ::i@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@o@o@o@oooooooooooooooo</text>
+  <text x='28' y='140.2' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjxxxxxxxxxxxxxooooooooooooo|:                      :   :::   :|xg@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@o@o@o@ooooooooooooo</text>
+  <text x='28' y='149.8' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjxxxxxxxxxxxxxxxooooooooooo|:                              ::i@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@o@o@o@oo@o@ooooooooooooooooo</text>
+  <text x='28' y='159.4' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jxxxxxxxxxxxxxxxoooooooooooo|                            :::::!@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@o@o@ooooooooooooooooooooooooooooooooooo</text>
+  <text x='28' y='169' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjxxxxxxxxxxxxxxxxxxxxoooox:                           ::::::[*o@@@@@@@@@@@@@@@@@@@@@@@@@o@o@o@o@oo@ooooooooooooooooooooooooooooooooooooooo</text>
+  <text x='28' y='178.6' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjjxxxxxxxxxxxxxxxxxxxxox;:             : :       :::::j::::jo@@@@@@@@@@@@@@@@@@@@@o@o@o@o@o@oo@oooooooooooooooooooooooooooooooooooooooox</text>
+  <text x='28' y='188.2' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjxxxxxxxxxxxxxxxxxxxxxxxoox;             ::: ::::  :::::jjj::io@o@o@o@o@o@@o@@@o@o@o@ooo@oooooooooooooooooooooooooooooooooooooooooooooxxxx</text>
+  <text x='28' y='197.79999999999998' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:             ::: :::: ::::::jjjjjxo@o@o@o@o@o@@o@o@o@o@oo@oooooooooooooooooooooooooooooooooooooooooooooxxxxxx</text>
+  <text x='28' y='207.4' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjxxxxxxxxxxxxxxxxxxxxxxxxxxxxu/             ::::::::::::::jjj:ugoooooo@o@o@oo@o@oooooooooooooooooooooooooooooooooooooooooooooooxxxxxxxxxxxx</text>
+  <text x='28' y='217' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjxxxxxxxxxxxxxxxxxxxxxxxxxxj:          :: ::::::::::::::jjjooooooooooooo@ooooooooooooooooooooooooooooooxoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</text>
+  <text x='28' y='226.6' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjjjjjjjjxxxxxxxxxxxxxxxxxxxx;_        :::::: :::::::::::jj1ooooooooooooooooooooooooooooooooooooxoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</text>
+  <text x='28' y='236.2' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjjjjjjjjjjjjjjjjjxjxxxxxxxxxxxj:::  :: :::::: :::::::::::jxoooooooooooooooooooooxxxxoooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</text>
+  <text x='28' y='245.79999999999998' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjjjjjjjjjjjjjjjxxxxxxxxxjjj!jj:::    ::::::::: ::::::::::xxxxxxxxxxxxxxxxxxoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</text>
+  <text x='28' y='255.39999999999998' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjjjjjjjjjjxxxxxxxxxxxxxj:::::: :  :   ::::j:::::______::_xxxxxxxoxoooooooooooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxj</text>
+  <text x='28' y='265' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjjjjjjjjjjxjjjjjxxxxxxxj::::::::   : : :::j:j:ixxxxxxxxxxxxxxxoxooooooooooooooooxxxxoooxooxoxoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</text>
+  <text x='28' y='274.6' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjjjjjjjjjjjjjxxxxxxxxxj:::::: :      : : :::jjxxxxxxxxxxxxxxxxoxxxoooooooooooooxoxxooxoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</text>
+  <text x='28' y='284.2' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjjjjjjjjjjjxxxxxxxxjjjjjjj:::::::::::::::::::::jxxxxxxxxxxxxxxxoxxxxxoxooooooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</text>
+  <text x='28' y='293.8' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjjjjjjjjjjxxxx=jjjjjj:::::::::::::::::::::::::::jjvxxxxxxxxxxxxoxoxoxoooooooooxoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</text>
+  <text x='28' y='303.4' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjjjjjjjjjxxvj|xxjjjjjjjjjj:j:::::::::::::::::::::j:jjjjoxxxooooooooooooooooooooxoxoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</text>
+  <text x='28' y='313' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjjjjjjjxxx!:_jjj::::::::::::::::::::::::::jjjjjjj:jjjjjjjjjxxxoooooooooooooooooooxoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</text>
+  <text x='28' y='322.59999999999997' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjjjjjjxv=! ::::::::::::::::::::::::::::::::::::::!!jjjjjjjjjjjxxoooooooooooooooooxoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</text>
+  <text x='28' y='332.2' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjjjjjjjj: :::::::::::::::::::::::::: :  : ::::::jj::::::!jjjjjjjjxooooooooooooooxoxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxj</text>
+  <text x='28' y='341.8' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjjj::j::   ::    ::::::::::::::::: :: :  : :::::::::!!jjj::!jj:j:jjxooooooooooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxjjj</text>
+  <text x='28' y='351.4' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>:::::::::::    ::       :  :       :: :           :::::::::::!jj:jj:::jxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxjjjjjjjjjjjj</text>
+  <text x='28' y='361' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjj: :::    ::    :  : ::     : :: :          :      ::::::::j::j:::jxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxjxjjjjjjjjjj</text>
+  <text x='28' y='370.59999999999997' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjj::::     :           :       : ::          :  :   :    ::::j:::::jjjjxjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjxxxjxjjxjxjjjjjjjjjjjjjjjjjjjjjjjj</text>
+  <text x='28' y='380.2' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjj::::            : :  :      :: :          :   :  :   : ::::: :j:::jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
+  <text x='28' y='389.8' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjj:        :        :  :       : :              :  :       : ::::::::j::::::::::::::::::::j:j:jj:jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
+  <text x='28' y='399.4' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjj:  :              :         :: :          :  :   :       :  :: :::::jjjjjjjjjjjjjjjj:j:j:::::::::::::::::::::::::::::j:j:j:jjjjjjjjjjj</text>
+  <text x='28' y='409' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjj::                   :       : :              :         :   ::::::::jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj:j:jjjjjjj</text>
+  <text x='28' y='418.59999999999997' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjj: :               :          : :          :   :        :     :: :::::jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
+  <text x='28' y='428.2' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjj::                :          : :           :  :     :      : :::::::::jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
+  <text x='28' y='437.8' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjj::                  :        : :           :  :   :         : :: :: :::jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
+  <text x='28' y='447.4' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjj::                           : :           :  :               :::::: ::jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
+  <text x='28' y='457' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjj::                           :             :      :          : ::::: :::jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
+  <text x='28' y='466.59999999999997' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjj::      :            :       : :           :  :               : ::::: ::jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
+  <text x='28' y='476.2' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjjj:      :                    :  :          :   :               ::::::  ::jjjjxjjxjxjxxjxxxxxxjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
+  <text x='28' y='485.79999999999995' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjjjj       :           :       :  :          :   :      :        : :: :: ::jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
+  <text x='28' y='495.4' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjjj:       :                   :  :          :   :               ::::: :: :jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
+  <text x='28' y='505' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjjj:   :   ::                  :  :           :  :                ::::  :  jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
+  <text x='28' y='514.5999999999999' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjjj:   :    :                  :   :          :  :        :      :::::: :: :jjxxxxjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
+  <text x='28' y='524.2' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjjj   ::    ::          :          :          :  ::        :   :  :: ::  :: !xxxxxxxxxxxxxxxxxxxxxxxjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
+  <text x='28' y='533.8' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'>jjjjjj:   jj:  :::                 :   :          :  :         :  : : ::  :: ::::jxxxxxxxxxxxxxxxxxxxxxxxxxjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
+  <text x='28' y='543.4' fill='#c9d1d9' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='8'> : : :     :                                                                      ''''''''''''''''''''''''''''''''''''''':::::::::::::::::::</text>
+  <text x='732' y='192.2' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='16'><tspan fill='#3d444d'>─</tspan><tspan fill='#58a6ff'> bepoooe@github </tspan><tspan fill='#3d444d'>─────────────────────────────────────────</tspan></text>
+  <text x='732' y='212.2' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='16'><tspan fill='#ffa657'>. Uptime: </tspan><tspan fill='#484f58'>...................</tspan><tspan fill='#c9d1d9'> 3 years, 11 months, 12 days</tspan></text>
+  <text x='732' y='232.2' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='16'><tspan fill='#ffa657'>. Languages: </tspan><tspan fill='#484f58'>..</tspan><tspan fill='#c9d1d9'> TypeScript, JavaScript, HTML, Python, Ju…</tspan></text>
+  <text x='732' y='272.2' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='16'><tspan fill='#3d444d'>─</tspan><tspan fill='#58a6ff'> Contact </tspan><tspan fill='#3d444d'>────────────────────────────────────────────────</tspan></text>
+  <text x='732' y='292.2' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='16'><tspan fill='#ffa657'>. Website: </tspan><tspan fill='#484f58'>..................</tspan><tspan fill='#c9d1d9'> adrish-portfolio.vercel.app</tspan></text>
+  <text x='732' y='312.2' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='16'><tspan fill='#ffa657'>. GitHub: </tspan><tspan fill='#484f58'>............................</tspan><tspan fill='#c9d1d9'> github.com/bepoooe</tspan></text>
+  <text x='732' y='352.2' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='16'><tspan fill='#3d444d'>─</tspan><tspan fill='#58a6ff'> GitHub Stats </tspan><tspan fill='#3d444d'>───────────────────────────────────────────</tspan></text>
+  <text x='732' y='372.2' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='16'><tspan fill='#ffa657'>. Repos: </tspan><tspan fill='#484f58'>..............</tspan><tspan fill='#79c0ff'> 38</tspan><tspan fill='#3d444d'> | </tspan><tspan fill='#ffa657'>. Stars: </tspan><tspan fill='#484f58'>..............</tspan><tspan fill='#79c0ff'> 19</tspan></text>
+  <text x='732' y='392.2' font-family='Consolas, Menlo, DejaVu Sans Mono, monospace' xml:space='preserve' font-size='16'><tspan fill='#ffa657'>. Commits: </tspan><tspan fill='#484f58'>...........</tspan><tspan fill='#79c0ff'> 906</tspan><tspan fill='#3d444d'> | </tspan><tspan fill='#ffa657'>. Followers: </tspan><tspan fill='#484f58'>...........</tspan><tspan fill='#79c0ff'> 8</tspan></text>
+</svg>" alt="ASCII GitHub profile card" width="100%" />
       </td>
       <td width="48%" valign="middle">
         <h3>🧑‍💻 About Me</h3>
