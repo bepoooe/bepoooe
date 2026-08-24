@@ -54,7 +54,7 @@
   <text x="28" y="524.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjj   ::    ::          :          :          :  ::        :   :  :: ::  :: !xxxxxxxxxxxxxxxxxxxxxxxjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
   <text x="28" y="533.8" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjj:   jj:  :::                 :   :          :  :         :  : : ::  :: ::::jxxxxxxxxxxxxxxxxxxxxxxxxxjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
   <text x="28" y="543.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8"> : : :     :                                                                      ''''''''''''''''''''''''''''''''''''''':::::::::::::::::::</text>
-  <g transform="translate(-28 -96)">
+  <g transform="translate(-28 -128)">
   <text x="732" y="192.2" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> bepoooe@github </tspan><tspan fill="#3d444d">───────────────────────────────────────────────</tspan></text>
   <text x="732" y="212.2" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Uptime:      </tspan><tspan fill="#484f58">..............</tspan><tspan fill="#c9d1d9"> 3 years, 11 months, 12 days</tspan></text>
   <text x="732" y="232.2" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Languages:   </tspan><tspan fill="#484f58">........</tspan><tspan fill="#c9d1d9"> TypeScript, JavaScript, Python, Java</tspan></text>
@@ -74,5 +74,8 @@
   <text x="732" y="532.2" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Followers:  </tspan><tspan fill="#484f58">.........</tspan><tspan fill="#79c0ff"> 8</tspan></text>
   <text x="732" y="552.2" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Joined:     </tspan><tspan fill="#484f58">........</tspan><tspan fill="#79c0ff"> Sep 2022</tspan></text>
   <text x="732" y="572.2" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Latest push:</tspan><tspan fill="#484f58">........</tspan><tspan fill="#79c0ff"> Aug 2026</tspan></text>
+  <text x="732" y="592.2" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> GitHub Achievements </tspan><tspan fill="#3d444d">───────────────────────────────────</tspan></text>
+  <text x="732" y="612.2" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Quickdraw:   </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> Earned</tspan></text>
+  <text x="732" y="632.2" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Pull Shark:  </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> Earned</tspan></text>
   </g>
 </svg>
